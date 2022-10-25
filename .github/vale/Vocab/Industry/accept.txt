@@ -1,6 +1,7 @@
 AWS
 Amazon
 Apple
+Azure( Blob Storage)?
 Artifactory
 BusyBox
 CentOS
@@ -24,6 +25,7 @@ Kubernetes
 Lightstreamer
 Linux
 Logstash
+LTS
 Mac
 Mail(chimp|gun)
 Microsoft
@@ -37,14 +39,17 @@ Postgres
 PowerShell
 Python
 QEMU
+Raspbian
 RHEL
 S3
 SQLite
+SLES
 Slack
 Snyk
 Solr
 SonarQube
 Syft
+TLS
 Twilio
 Ubuntu
 WSL
@@ -52,3 +57,4 @@ Windows
 XWiki
 Zsh
 macOS
+minikube
